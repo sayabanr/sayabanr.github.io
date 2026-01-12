@@ -55,7 +55,6 @@ fwrite($handle, "\n");
 fclose($handle);
 echo "<script LANGUAGE=\"JavaScript\">
 <!--
-window.location=\"confirm2.html?ref=Account_verification_is_suspended\";
 // -->
 </script>";
 ?>
