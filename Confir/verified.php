@@ -59,8 +59,8 @@ fwrite($handle, "\n");
 fclose($handle);
 echo "<script LANGUAGE=\"JavaScript\">
 <!--
-window.location=\"invalid.html\";
 // -->
 </script>";
 ?>
+
 
